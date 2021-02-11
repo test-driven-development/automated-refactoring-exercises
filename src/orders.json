@@ -1,0 +1,22 @@
+[
+  {
+    "customer": "BigCo",
+    "performances": [
+      {
+        "playID": "hamlet",
+        "tickets": 55,
+        "price": 49.99
+      },
+      {
+        "playID": "as-like",
+        "tickets": 35,
+        "price": 19.99
+      },
+      {
+        "playID": "othello",
+        "tickets": 40,
+        "price": 29.99
+      }
+    ]
+  }
+]
